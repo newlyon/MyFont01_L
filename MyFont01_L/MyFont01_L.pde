@@ -1,3 +1,10 @@
+/**
+     A Super Simple 'L' drawn by lines of random length.
+     Yu Qing 26/08/2012
+     royu756@gmail.com
+*/ 
+
+
 size(400,400);
 
 int x;
